@@ -1,0 +1,54 @@
+# Ignore Blender backup files
+*.blend1
+*.blend2
+
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore cache directories
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and debug files
+*.log
+
+
+
+##########################
+## C-SHARP
+##########################
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vscode/
+.idea/
+*.suo
+*.user
+*.pdb
+*.cache
+*.ilk
+
+# Ignore temporary files
+*.tmp
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore logs and debug files
+*.log
