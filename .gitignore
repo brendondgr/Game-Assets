@@ -1,6 +1,7 @@
 # Ignore Blender backup files
 *.blend1
 *.blend2
+*AutoSave.blend
 
 
 # Ignore Python bytecode files
